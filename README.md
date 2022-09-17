@@ -1,4 +1,5 @@
-# TrainBooking Website
+# Template-to-check-the-railway-ticket-availability
+
 ### Online Train Information and Reservation
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - View Trains Schedule
@@ -90,7 +91,7 @@ commit;
 ### ====== Importing and Running the Project Through Eclipse EE ===========
 Step 0: Open Eclipse Enterprise Edition. [Install if not available]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/VadirajaBR/Template-to-check-the-railway-ticket-availability.git``` > Next > Select Master Branch > Next > Finish
 
 Step 2: Right Click On Project > Build Path > Configure Build Path > Libraries > Remove And Update Any Libraries With Red Mark > Finish
 
@@ -105,52 +106,3 @@ Step 6: Check Running The Site At  <a Href="Http://localhost:8083/trainbook/">ht
 Step 7: Default Username And Password For Admin Is "admin" And "admin"
 
 Step 8: Default Username And Password For User Is "shashi" And "shashi"
-
-
-
-### The Screenshots of some of the  webPages of this project are Here:
-
-1. Login Page
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/login.png" width="100%">
-
-
-2. Register New User
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/registeruser.png" width="100%">
-
-
-3. View Profile
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/viewprofile.png" width="100%">
-
-
-4. View and Book Trains
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/Search.png" width="100%">
-
-
-5. Add Trains By Admin
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
-
-
-6. Change Password
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/passwordchange.png" width="100%">
-
-7. Train Fare Enquiry
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/fareenquiry.png" width="100%">
-
-8. Train Details
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/Availability.png" width= "100%">
-
-
-9. User Home
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/userhome.png" width="100%">
-
-
-10. Book Trains Now
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/booknow.png" width="100%">
-
-11. Train Ticket Book
-<img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/TicketBook.png" width="100%">
-
-
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
